@@ -1,0 +1,9 @@
+.form-group.has-error .form-control{
+    border-color: #f00!important;
+}
+.form-group.has-error .help-block{
+    display: none!important;
+}
+#popup_messages{
+    height: auto;
+}
